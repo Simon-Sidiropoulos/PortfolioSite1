@@ -6,15 +6,15 @@ const Projects = () => {
       id: 1,
       title: "GymTrack",
       description: "A fitness tracking application to monitor your workouts and progress.",
-      tags: ["React", "JavaScript"],
-      image: "/images/gymtrack.png",
+      tags: ["React", "Tailwind"],
+      image: "./images/gymtrack.png",
     },
     {
       id: 2,
       title: "El Sabor Mexicano",
       description: "A Mexican restaurant website showcasing authentic cuisine and online ordering.",
-      tags: ["React", "JavaScript"],
-      image: "/images/mexicanstore.png",
+      tags: ["React", "Tailwind"],
+      image: "./images/mexicanstore.png",
     },
   ];
 

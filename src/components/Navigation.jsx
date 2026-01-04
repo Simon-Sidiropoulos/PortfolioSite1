@@ -28,7 +28,7 @@ const Navigation = () => {
     <nav className={`main-nav ${scrolled ? 'nav-scrolled' : ''}`}>
       <div className="nav-content">
         <div className="nav-logo" onClick={() => scrollToSection('hero')}>
-          <img src="/images/New Project (18).png" alt="Logo" className="nav-logo-image" />
+          <img src="./images/New Project (18).png" alt="Logo" className="nav-logo-image" />
           <span className="logo-text">Simon's Portfolio</span>
         </div>
         <div className="nav-links">

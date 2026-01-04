@@ -27,7 +27,7 @@ const Hero = () => {
           <div className="scroll-arrow"></div>
         </div>
       </div>
-        <img src="/images/New Project (18).png" alt="Logo" className="hero-logo" />
+        <img src="./images/New Project (18).png" alt="Logo" className="hero-logo" />
       <div className="stars"></div>
       <div className="twinkling"></div>
       <div className="cosmic-portal"></div>
